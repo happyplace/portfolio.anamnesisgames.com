@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Andrew&#39;s Portfolio</title>
+    <link>https://portfolio.anamnesisgames.com/work/</link>
+    <description>Recent content in Works on Andrew&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://portfolio.anamnesisgames.com/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Far Cry 6</title>
+      <link>https://portfolio.anamnesisgames.com/work/farcry6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolio.anamnesisgames.com/work/farcry6/</guid>
+      <description>Far Cry 6 is a 2021 action-adventure first-person shooter game developed by Ubisoft Toronto and published by Ubisoft. It is the sixth main installment in the Far Cry series and the successor to 2018&amp;rsquo;s Far Cry 5. The game is set on the fictional Caribbean island of Yara, ruled as a dictatorship by &amp;ldquo;El Presidente&amp;rdquo; Antón Castillo (portrayed by Giancarlo Esposito) who is raising his son Diego (Anthony Gonzalez) to follow in his rule.</description>
+    </item>
+    
+    <item>
+      <title>Rugby 15</title>
+      <link>https://portfolio.anamnesisgames.com/work/rugby15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolio.anamnesisgames.com/work/rugby15/</guid>
+      <description>The first next-gen rugby video game is here, packed with all the intensity and passion worthy of this classic sport. Take the helm of official teams and clubs from the most prestigious leagues in the world: Aviva Premiership Rugby, Pro 12, TOP 14, and Pro D2! For the very first time in a rugby video game, carry out technical moves like cross passes, up-and-under, and behind-the-back passes. Challenge opponents in the local multiplayer mode, going against up to 3 other players in a true-to-life battle for the win, and experience rugby like never before!</description>
+    </item>
+    
+    <item>
+      <title>Shuyan Saga</title>
+      <link>https://portfolio.anamnesisgames.com/work/shuyan_saga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolio.anamnesisgames.com/work/shuyan_saga/</guid>
+      <description>Shuyan Saga is a graphic novel series where action scenes come alive in 3D combat gameplay. Set in an ancient Chinese martial arts fantasy universe, you embark on a life-changing journey as Shuyan.
+Platforms Android, iOS, Microsoft Windows
+Role  Used NodeCanvas to implement AI based on the specifications and feedback of the designer Upgraded and maintained “Comic Strip Cutscene” editor Integrated PlayMaker and extended nodes to work with existing systems  Web Site</description>
+    </item>
+    
+    <item>
+      <title>Starlink: Battle for Atlas</title>
+      <link>https://portfolio.anamnesisgames.com/work/starlink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolio.anamnesisgames.com/work/starlink/</guid>
+      <description>Starlink: Battle for Atlas is a new action-adventure game where you assemble a custom Starship mounted to your game controller to launch into an interplanetary adventure. Lead a group of heroic interstellar pilots who use modular starships to mix and match their unique gear and skills on the fly. Travel the starsystem to unite the galaxy against villainous destructive forces.
+Platforms Playstation 4, Xbox One, Switch
+Role  Worked with game designers, artists, and gameplay programmers to implement menus and HUD Extended node graph system to interact with gameplay and AI systems  Web Site</description>
+    </item>
+    
+    <item>
+      <title>Teenage Mutant Ninja Turtles: Legends</title>
+      <link>https://portfolio.anamnesisgames.com/work/tmnt_legends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolio.anamnesisgames.com/work/tmnt_legends/</guid>
+      <description>Explore the Turtles universe with an All-New Original story. Battle your way through 7 chapters and over 70 stages to take on the baddest of bosses – Shredder, Kraang and more! RESPECT THE SHELL: For a limited-time, play and experience an all-new chapter based on this summer’s blockbuster, Teenage Mutant Ninja Turtles: Out of the Shadows!
+Platforms Android, iOS
+Role  Worked with game designers and artists to implement menus Fixed bugs with fork of engine used for game Improved remote asset downloader  Web Site</description>
+    </item>
+    
+  </channel>
+</rss>
